@@ -5,9 +5,15 @@ Welcome to the Food Recommendation Model Training project! This repository hosts
 
 Features
 Data Collection: Gather data from various sources including user feedback, ingredient lists, and nutritional information.
+
 Preprocessing: Clean, normalize, and extract features from the collected data to prepare it for model training.
+
 Model Training: Train recommendation models using collaborative filtering, content-based filtering, and hybrid approaches.
+
 Evaluation: Rigorously evaluate trained models using precision, recall, and F1-score metrics.
+
 Deployment: Deploy the best-performing model to provide real-time recommendations through a user-friendly interface.
+
 Personalization: Tailor recommendations based on individual user preferences and dietary restrictions.
+
 Scalability: Designed for scalability to handle large datasets and efficient processing of recommendation requests.
